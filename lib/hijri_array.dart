@@ -58,6 +58,36 @@ const Map<int, String> arMonthShortNames = {
   12: 'الجة'
 };
 
+const Map<int, String> azMonthNames = {
+  1: 'Məhərrəm',
+  2: 'Səfər',
+  3: 'Rabi\' Əl-Əvvəl',
+  4: 'Rabi\' Əl-Axır',
+  5: 'Cumədə Əl-Əvvəl',
+  6: 'Cumədə Əl-Axır',
+  7: 'Rəcəb',
+  8: 'Şaban',
+  9: 'Ramazan',
+  10: 'Şəvval',
+  11: 'Zilqədə',
+  12: 'Zilhiccə'
+};
+
+const Map<int, String> azMonthShortNames = {
+  1: 'Məh',
+  2: 'Saf',
+  3: 'Rab1',
+  4: 'Rab2',
+  5: 'Cum1',
+  6: 'Cum2',
+  7: 'Rəc',
+  8: 'Şab',
+  9: 'Ram',
+  10: 'Şəv',
+  11: 'Zil',
+  12: 'Zil'
+};
+
 const Map<int, String> wdNames = {
   7: "Sunday",
   1: "Monday",
@@ -97,6 +127,27 @@ const Map<int, String> arShortWdNames = {
   5: "جمعة",
   6: "سبت"
 };
+
+const Map<int, String> azWdNames = {
+  1: "Bazr Ertəsi",
+  2: "Çərşənbə Axşamı",
+  3: "Çərşənbə",
+  4: "Cümə Axşamı",
+  5: "Cümə",
+  6: "Şənbə",
+  7: "Bazar"
+};
+
+const Map<int, String> azShortWdNames = {
+  1: "B.E.",
+  2: "Ç.A.",
+  3: "Çər",
+  4: "C.A.",
+  5: "Cüm",
+  6: "Şən",
+  7: "Baz"
+};
+
 
 const List<int> ummAlquraDateArray = [
   28607,

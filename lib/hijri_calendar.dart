@@ -29,6 +29,12 @@ class HijriCalendar {
       'days': arWkNames,
       'short_days': arShortWdNames
     },
+    'az': {
+      'long': azMonthNames,
+      'short': azMonthShortNames,
+      'days': azWdNames,
+      'short_days': azShortWdNames
+    },
   };
 
   // Consider switching to the factory pattern
